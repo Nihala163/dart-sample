@@ -9,7 +9,7 @@ void main(){
       }
       for(int j=0;j<=i;j++)
         {
-          stdout.write("*");
+          stdout.write(" * ");
         }
       stdout.writeln();
     }
