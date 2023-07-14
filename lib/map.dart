@@ -14,10 +14,10 @@ void main() {
 
   print('enter address:');
   var address = stdin.readLineSync();
-  var d = {"address": address};
-  print(d);
+  var e = {"address": address};
+  print(e);
 
 
-  list1.addAll([b, c,d]);
+  list1.addAll([b, c,e]);
   print(list1);
 }
