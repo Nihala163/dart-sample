@@ -17,7 +17,6 @@ void main() {
   var e = {"address": address};
   print(e);
 
-
   list1.addAll([b, c,e]);
   print(list1);
 }
