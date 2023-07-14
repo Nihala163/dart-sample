@@ -3,9 +3,9 @@ void main(){
   even(a);
 }
 void even(b) {
-    if(b<=100){
+    if(b<=10){
       if (b % 2 == 0) {
-      print(b)
+      print(b);
 
     }
   }
