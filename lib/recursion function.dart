@@ -5,7 +5,8 @@ void main(){
 void even(b) {
     if(b<=100){
       if (b % 2 == 0) {
-      print(b);
+      print(b)
+
     }
   }
   b=b+1;
