@@ -9,6 +9,7 @@ void main(){
 
   int c=multiply(a,b);
   print(c);
+
 }
 int multiply(d,e){
   int multiply=d*e;
